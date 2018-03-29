@@ -8,6 +8,6 @@ Travail déjà fait :
 - Test de quelques requêtes sur machine perso
 
 Travail à faire:
-- Test de quelques requêtes sur une machine virtuelle 
+- Créer requêtes pour trouver des shas, ou faire d'autres requêtes personnalisée 
 - Pour aller plus loin
 - Conclusion.
